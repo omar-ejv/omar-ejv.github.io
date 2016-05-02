@@ -6,11 +6,10 @@ tag:
 - software engineering
 - ux
 - design
-- project management
 blog: true
 ---
 
-## How to drink from cup of coffee?
+## How to drink from a cup of coffee?
 
 I remember once I was driving with my brother for few hours by car and we stopped somewhere in the middle of a Mexican road to get a cup of coffee. We got out of the car, ordered the coffee, and went back into the car to keep going. My brother was in front of the drive wheel at that moment, so I was all set to enjoy my cup of coffee.
 
