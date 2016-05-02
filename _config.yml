@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Omar Esli Jimenez Villarreal
+bio: 'Looking for ways to solve problems in society with the help of technology.'
+picture: 'assets/images/omar.jpg'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://www.omaresli.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -22,20 +22,20 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+# disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: omar_ejv
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+# github: mygithub
+# medium: medium
+email: omar.ejv@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -47,7 +47,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
