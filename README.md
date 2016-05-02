@@ -1,1 +1,1 @@
-[Visit my site](www.omaresli.com)
+[Visit my site](http://www.omaresli.com)
