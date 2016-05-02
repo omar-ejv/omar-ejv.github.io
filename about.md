@@ -5,8 +5,6 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-#About
-
 Hi there! you have found my experimentation playground. You can find my name in the front page of this website and I can tell you more about me, now that you are here ;)
 
 If you ask me: **why are you walking this planet?** that would be a bit weird given that we just met, but ok I have thought about it. This is the best I have come up with:
