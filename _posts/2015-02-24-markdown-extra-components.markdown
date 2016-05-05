@@ -6,7 +6,6 @@ tag:
 - markdown
 - components
 - extra
-blog: true
 ---
 
 ## Summary:
