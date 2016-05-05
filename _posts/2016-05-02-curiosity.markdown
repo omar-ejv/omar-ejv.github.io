@@ -26,7 +26,7 @@ This is not the only time I wondered about how stuff works. When I was a kid I u
 
 This curiosity to know how stuff works helped me over the past years to get a good overview of how software products are developed. From an engineering point of view, from a technical management point of view, from the user perspective, and I have learned more and more how an engineering team interacts with other parts of an organization such as marketing, product design, and business development.
 
-The mixed expertise I gained over the past years is what I am going to explore in the following series of articles. More specifically, I will dive into why I think it is important for a softare engineer and the whole engineering team to know more about the context of the product being developed. For instance, how is the product used? who uses it? or who would use it (for startups with smaller user base)? What is the value that brings to a user? What is the value that brings to the organization?
+The mixed expertise I gained over the past years is what I am going to explore in the following series of articles. More specifically, I will dive into why I think it is important for a software engineer and the whole engineering team to know more about the context of the product being developed. For instance, how is the product used? who uses it? or who would use it (for startups with smaller user base)? What is the value that brings to a user? What is the value that brings to the organization?
 
 >I describe this as _contextual programming_ or _empathic programming_ (I still need to come up with a better name)
 
