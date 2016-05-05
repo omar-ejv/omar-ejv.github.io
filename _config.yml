@@ -1,6 +1,6 @@
 # main text of home
 name: Omar Esli Jimenez Villarreal
-bio: 'Looking for ways to solve problems in society with the help of technology.'
+bio: 'Exploring new ways to contribute to society using technology.'
 picture: 'assets/images/omar.jpg'
 
 # if it's an external image, update below for true
@@ -15,14 +15,14 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-77349525-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-# disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
