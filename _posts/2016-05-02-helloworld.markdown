@@ -1,7 +1,7 @@
 ---
 title: "Hello world: I have a purpose"
 layout: post
-date: 2016-06-23 16:00
+date: 2016-06-23 15:00
 tag:
 - software engineering
 - context
