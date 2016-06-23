@@ -35,9 +35,10 @@ Nowadays a smart phone application can be written by a 12 year old, because the 
 
 So, what do we do now? I have spent most of my life learning new programming languages, mastering software design principles, and learning about the latest trends in programming frameworks. All this knowledge is not going to the drain, but it is not enough to develop successful product. You need to be able to incorporate contextual knowledge into the design process of a product.
 
-Luckyly Software Engineering defines a set or principles and practices that a software designer should follow in order to design software that meets its requirements. The software needs to do what is supposed to do and it should do it right.
+Luckyly Software Engineering defines a set or principles and practices that a software designer should follow in order to design software that meets its requirements. The software needs to do what is supposed to do and it should do it right. If not, the picture below explains better than me:
 
 ![Product design]({{ site.url }}/assets/images/product_dev.jpg)
+[source](http://bob.yexley.net/the-software-development-conundrum-estimation/)
 
 Here is where we can strengthen the process, what we need to do is follow a more formal design process where software development is not the last part of a product development. Software development should be involved since the early stages of product design. The earlier we can plug our knowledge into the design process, the more possibilities we have to develop successful products. In the end, it is us developers who can push the boundaries of what is possible.
 
