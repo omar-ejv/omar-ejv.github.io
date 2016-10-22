@@ -7,6 +7,7 @@ tag:
 - ux
 - design
 blog: true
+comments:true
 ---
 
 ## How to drink from a cup of coffee?

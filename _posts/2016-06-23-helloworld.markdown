@@ -7,6 +7,7 @@ tag:
 - context
 - design
 blog: true
+comments: true
 ---
 
 # Hello world: I have a purpose.
