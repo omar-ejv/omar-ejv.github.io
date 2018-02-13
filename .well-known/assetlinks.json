@@ -1,0 +1,35 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "alpha",
+      "package_name": "com.momondo.flightsearch.alpha",
+      "sha256_cert_fingerprints": [
+        "E6:49:6C:70:F6:1C:09:CB:B0:47:1F:36:9A:A5:72:C2:3B:06:EE:D9:81:03:42:13:2A:A0:77:85:97:5B:83:E4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "alpha",
+      "package_name": "com.momondo.flightsearch.alpha",
+      "sha256_cert_fingerprints": [
+        "E6:49:6C:70:F6:1C:09:CB:B0:47:1F:36:9A:A5:72:C2:3B:06:EE:D9:81:03:42:13:2A:A0:77:85:97:5B:83:E4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://www.omaresli.com"
+    }
+  }
+]
